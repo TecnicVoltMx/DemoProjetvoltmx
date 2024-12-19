@@ -13,5 +13,8 @@ define({
   
   testeddevice: function(){
     
+  },
+  onNavigate: function(){
+    
   }
  });
