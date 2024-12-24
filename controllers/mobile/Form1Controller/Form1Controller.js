@@ -14,5 +14,9 @@ fun: function(){
   
   sub: function(){
     
+  },
+  
+  mul: function(){
+    
   }
  });
