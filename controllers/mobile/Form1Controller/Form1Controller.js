@@ -18,5 +18,9 @@ fun: function(){
   
   mul: function(){
     voltmx.print("mul function");
+  },
+  
+  test: function(){
+    print("hello");
   }
  });
