@@ -23,10 +23,6 @@ fun: function(){
   test: function(){
     print("hello");
   },
-  add1: function(){
-    
-  },
-  addition2: function(){
-    
+
   }
  });
