@@ -23,7 +23,6 @@ fun: function(){
   test: function(){
     print("hello");
   },
-  test1: function(){
-    print('test1');
+
   }
  });

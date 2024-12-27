@@ -32,7 +32,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "FlexContainer0ja5ba1b434d24a"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -40,9 +42,11 @@
             "name": "Form1Controller"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "iPhone14",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Form1",
@@ -96,6 +100,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone14",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
