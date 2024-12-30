@@ -24,5 +24,7 @@ fun: function(){
     print("hello");
   },
 
+  addedmul: function(){
+    
   }
  });
